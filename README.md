@@ -1,6 +1,8 @@
 # GLASSgo_GI-Version
 GLASSgo (GLobal Automated sRNA Search go) combines iterative BLAST searches, pairwise identity filtering, and structure based clustering in an automated prediction pipeline to find sRNA homologs from scratch. The returned GLASSgo result is in FASTA format, whereby the first entry represents the input sequence. 
 
+The current GLASSgo version uses a compiled version of Londen (/reqPackages/londen). If you want to use the sources, please modify line 524 in the GLASSgo.py script. 
+
 **Required packages:**
 - Python version >3.x
 - Perl version >5.x
