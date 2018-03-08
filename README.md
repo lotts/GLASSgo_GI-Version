@@ -1,7 +1,7 @@
 # GLASSgo_GI-Version
 GLASSgo GI-Version
 
-```bash
+```text
 
 Most important GLASSgo parameters:
 
