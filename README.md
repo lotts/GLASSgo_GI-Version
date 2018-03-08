@@ -1,8 +1,7 @@
 # GLASSgo_GI-Version
 GLASSgo GI-Version
 
-```python
-
+```bash
 
 Most important GLASSgo parameters:
 
