@@ -41,4 +41,4 @@ https://hub.docker.com/r/lotts/glassgo_gi_version/
 
 GLASSgo Web-Server Version + interactive taxonomic tree viewer
 -------
-http://rna.informatik.uni-freiburg.de/GLASSgo/Input.jsp
+http://rna.informatik.uni-freiburg.de/GLASSgo/
